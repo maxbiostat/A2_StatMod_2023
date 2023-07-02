@@ -1,5 +1,5 @@
 # Final reports for Statistical Modelling (2023)
-Aggregator for the final reports on Statistical Modelling (FGV EMAp 2023/2)
+Aggregator for the final reports on Statistical Modelling (FGV EMAp 2023/2).
 
 
 - ["A Bayesian approach to understanding the Homicide Rate in the City of Rio de Janeiro by administrative regions through their Social Progress Index indicators"](https://github.com/adamesalles/homicide-rate-rj) by [@adamesalles](https://github.com/adamesalles).
