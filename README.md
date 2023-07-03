@@ -9,3 +9,4 @@ Aggregator for the final reports on Statistical Modelling (FGV EMAp 2023/2).
 - ["*Quem quer ser um deputado?* Uma análise multinível das eleições para a Câmara dos Deputados em 2022"](https://github.com/felipelmc/ElectoralDynamics) by [@felipelmc](https://github.com/felipelmc).
 - ["Modelagem da evasão no ensino superior no Brasil"](https://github.com/juanbelieni/fgv-me-a2) by [@juanbelieni](https://github.com/juanbelieni).
 - ["Title"](repo_link) by [@student](personal_link).
+- ["Estudo de inferência causal sobre a maximização preditiva do índice de satisfação dos usuários no Airbnb"](https://github.com/Rian-Freitas/airbnb_satisfaction_modelling), by [Rian Freitas](https://github.com/Rian-Freitas).
