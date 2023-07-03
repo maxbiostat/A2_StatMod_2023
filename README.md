@@ -7,4 +7,5 @@ Aggregator for the final reports on Statistical Modelling (FGV EMAp 2023/2).
 - ["Análise estatística de regressão logística para classificação da doença de Alzheimer's"](https://github.com/EsquiloTorto/Classificacao-de-Transtorno-Neurocognitivo-Maior-A2-ME) by [@kayo_yokoyama](https://github.com/EsquiloTorto).
 - ["MindTrack: Modelando Dados de Testes Cognitivos"](https://github.com/lfzinho/MindTrack-Data-Analysis) by [@laguardia](https://github.com/lfzinho).
 - ["*Quem quer ser um deputado?* Uma análise multinível das eleições para a Câmara dos Deputados em 2022"](https://github.com/felipelmc/ElectoralDynamics) by [@felipelmc](https://github.com/felipelmc).
+- ["Modelagem da evasão no ensino superior no Brasil"](https://github.com/juanbelieni/fgv-me-a2) by [@juanbelieni](https://github.com/juanbelieni).
 - ["Title"](repo_link) by [@student](personal_link).
