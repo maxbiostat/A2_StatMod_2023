@@ -12,3 +12,4 @@ Aggregator for the final reports on Statistical Modelling (FGV EMAp 2023/2).
 - ["Análise do impacto do relacionamento amoroso no desempenho acadêmico"](https://github.com/edilton-bs/a2stats-model) by [@edilton-bs](https://github.com/edilton-bs).
 - ["Predição do desempenho de alunos do Ensino Secundário em Portugal"](https://github.com/VanessaWille/Performance-de-alunos-Ensino-Medio) by [@VanessaWille](https://github.com/VanessaWille)
 - ["Title"](repo_link) by [@student](personal_link).
+- ["Estudo de inferência causal sobre a maximização preditiva do índice de satisfação dos usuários no Airbnb"](https://github.com/Rian-Freitas/airbnb_satisfaction_modelling), by [Rian Freitas](https://github.com/Rian-Freitas).
