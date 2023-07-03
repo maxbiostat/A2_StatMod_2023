@@ -11,5 +11,6 @@ Aggregator for the final reports on Statistical Modelling (FGV EMAp 2023/2).
 - ["Entendendo a opinião política na eleição presidencial dos EUA de 1988"](https://github.com/EzequielEBS/A2-Modelagem_Estatistica) by [@ezequielbraga](https://github.com/EzequielEBS).
 - ["Análise do impacto do relacionamento amoroso no desempenho acadêmico"](https://github.com/edilton-bs/a2stats-model) by [@edilton-bs](https://github.com/edilton-bs).
 - ["Predição do desempenho de alunos do Ensino Secundário em Portugal"](https://github.com/VanessaWille/Performance-de-alunos-Ensino-Medio) by [@VanessaWille](https://github.com/VanessaWille)
+- ["Modelos para Predição da Qualidade do Vinho"](https://github.com/cleomarfelipe/wine-quality) by [@cleomarfelipe](https://github.com/cleomarfelipe).
 - ["Title"](repo_link) by [@student](personal_link).
 - ["Estudo de inferência causal sobre a maximização preditiva do índice de satisfação dos usuários no Airbnb"](https://github.com/Rian-Freitas/airbnb_satisfaction_modelling), by [Rian Freitas](https://github.com/Rian-Freitas).
