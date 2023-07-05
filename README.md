@@ -15,4 +15,5 @@ Aggregator for the final reports on Statistical Modelling (FGV EMAp 2023/2).
 - ["Estudo de inferência causal sobre a maximização preditiva do índice de satisfação dos usuários no Airbnb"](https://github.com/Rian-Freitas/airbnb_satisfaction_modelling), by [Rian Freitas](https://github.com/Rian-Freitas).
 - ["Predição de Oxigênio Dissolvido em amostras de água"](https://github.com/Daniel-Falqueto/A2_ME) by [@Daniel-Falqueto](https://github.com/Daniel-Falqueto).
 - ["Previsão de pacientes com diabetes"](https://github.com/LucaEscopelli/previsao_diabetes) by [@LucaEscopelli](https://github.com/LucaEscopelli).
+- ["Previsão de falência em empresas"](https://github.com/LucasTreuke/Previsao-de-falencia) by [@LucasTreuke](https://github.com/LucasTreuke).
 - ["Title"](repo_link) by [@student](personal_link).
