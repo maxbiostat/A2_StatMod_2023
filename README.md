@@ -17,4 +17,5 @@ Aggregator for the final reports on Statistical Modelling (FGV EMAp 2023/2).
 - ["Previsão de pacientes com diabetes"](https://github.com/LucaEscopelli/previsao_diabetes) by [@LucaEscopelli](https://github.com/LucaEscopelli).
 - ["Explorando a relação entre dores no peito e doenças cardíacas -
 uma análise de Regressão Logística"](https://github.com/nicolessouza/LogisticRegression-HeartDiseases.git) by [@nicolessouza](https://github.com/nicolessouza).
+- ["Previsão de falência em empresas"](https://github.com/LucasTreuke/Previsao-de-falencia) by [@LucasTreuke](https://github.com/LucasTreuke).
 - ["Title"](repo_link) by [@student](personal_link).
