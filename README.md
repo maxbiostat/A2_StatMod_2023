@@ -18,4 +18,5 @@ Aggregator for the final reports on Statistical Modelling (FGV EMAp 2023/2).
 - ["Explorando a relação entre dores no peito e doenças cardíacas -
 uma análise de Regressão Logística"](https://github.com/nicolessouza/LogisticRegression-HeartDiseases.git) by [@nicolessouza](https://github.com/nicolessouza).
 - ["Previsão de falência em empresas"](https://github.com/LucasTreuke/Previsao-de-falencia) by [@LucasTreuke](https://github.com/LucasTreuke).
+- ["Análise do efeito de álcool no desempenho acadêmico"](https://github.com/RaulFigueiredo/Analise-do-efeito-de-alcool-no-desempenho-academico/) by [@RaulFigueiredo](https://github.com/RaulFigueiredo).
 - ["Title"](repo_link) by [@student](personal_link).
