@@ -21,3 +21,4 @@ uma análise de Regressão Logística"](https://github.com/nicolessouza/Logistic
 - ["Análise do efeito de álcool no desempenho acadêmico"](https://github.com/RaulFigueiredo/Analise-do-efeito-de-alcool-no-desempenho-academico/) by [@RaulFigueiredo](https://github.com/RaulFigueiredo).
 - ["Statistical Classification Applied to Credit Card Consumers"](https://github.com/marcelo-souzaf/CreditCardChurn-StatMod) by [@marcelo-souzaf](https://github.com/marcelo-souzaf).
 - ["Modelagem de Doenças Cardiovasculares Baseado em Dados Clínicos"](https://github.com/iaracastro/Inferencia-Modelagem-Estatistica/tree/main/Trabalhos-Modelagem/Artigo%20A2) by [@iaracastro](https://github.com/iaracastro).
+- ["Construção de modelo multinível longitudinal para previsão de resultados avaliativos na educação básica"](https://github.com/anacarolerthal/students-grade-prediction) by [@anacarolerthal](https://github.com/anacarolerthal)
