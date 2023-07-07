@@ -20,3 +20,4 @@ uma análise de Regressão Logística"](https://github.com/nicolessouza/Logistic
 - ["Previsão de falência em empresas"](https://github.com/LucasTreuke/Previsao-de-falencia) by [@LucasTreuke](https://github.com/LucasTreuke).
 - ["Análise do efeito de álcool no desempenho acadêmico"](https://github.com/RaulFigueiredo/Analise-do-efeito-de-alcool-no-desempenho-academico/) by [@RaulFigueiredo](https://github.com/RaulFigueiredo).
 - ["Statistical Classification Applied to Credit Card Consumers"](https://github.com/marcelo-souzaf/CreditCardChurn-StatMod) by [@marcelo-souzaf](https://github.com/marcelo-souzaf).
+- ["Modelagem de Doenças Cardiovasculares Baseado em Dados Clínicos"](https://github.com/iaracastro/Inferencia-Modelagem-Estatistica/tree/main/Trabalhos-Modelagem/Artigo%20A2) by [@iaracastro](https://github.com/iaracastro).
